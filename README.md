@@ -34,30 +34,21 @@ Currently working on real-world engineering problems involving maps, data proces
 
 ### Backend
 - Java
-- Python
 - REST APIs
 - Authentication & Authorization
 
 ### Database & Cloud
 - MongoDB
 - MySQL
+- Postgres
   
 
 ### Tools & Platforms
 - Cursor
 - Git & GitHub
-- Docker
 - Postman
 - Linux
 - VS Code
-
-### Concepts
-- Data Structures & Algorithms
-- System Design
-- API Design
-- Scalable Systems
-- Software Architecture
-- Automation Tools
 
 ---
 
@@ -73,46 +64,39 @@ Currently working on real-world engineering problems involving maps, data proces
 
 ## 🚀 Featured Projects
 
-### 🔹 Parking Health & Analytics Platform
-Built tools and workflows for parking health analysis, monitoring, and system insights.
+### 🔹 Club Management System
+A full-stack platform designed to simplify club operations, event management, and student engagement within universities and organizations.
 
-### 🔹 Deep JSON Search Tool
-Created a frontend utility to search deeply nested JSON structures efficiently with dynamic path-based querying.
+Tech Stack: React.js, Flask, PostgreSQL, Tailwind CSS, JWT, Material UI
 
-### 🔹 Automation & Internal Engineering Tools
-Developed scripts and tools to automate repetitive engineering tasks and improve workflows.
+### 🔹 ML Query Bot
+An AI-powered chatbot that answers machine learning queries using embeddings-based similarity search and intelligent response matching.
 
-### 🔹 Full Stack Web Applications
-Built scalable applications using React.js, Node.js, Express.js, and MongoDB.
+Tech Stack: Python, Flask, PostgreSQL, HTML, CSS, JavaScript, NLP
+
+### 🔹 Student News Hub
+A personalized news and career insights platform that delivers categorized educational news, job recommendations, and sentiment-based content analysis.
+
+Tech Stack: React.js, Flask, PostgreSQL, Machine Learning, News APIs
+
+### 🔹 TodoRails Elite
+A secure full-stack task management application with authentication, REST APIs, role-based access control, and advanced Spring Boot architecture concepts.
+
+Tech Stack: Java, Spring Boot, Spring Security, PostgreSQL, Thymeleaf, JPA, Maven
 
 ---
 
 ## 📜 Certifications & Learning
 
-- Coursera Certifications
-- Full Stack Development
-- Backend Engineering
-- Data Structures & Algorithms
-- Software Engineering Concepts
-- API & Database Design
-
----
-
-## 📈 GitHub Goals
-
-- Building impactful real-world projects
-- Contributing to open source
-- Improving system design & backend engineering skills
-- Writing cleaner and scalable software
-- Consistent learning and development
+- Amazon Junior Software Developer Professional Certificate on Coursera.
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Portfolio: https://your-portfolio-link
-- Email: your-email@example.com
+- LinkedIn: linkedin.com/in/pradeep-kumar-693418292
+- Portfolio: portfolio-code-new.vercel.app
+- Email: pradeep080805@gmail.com
 
 ---
 
